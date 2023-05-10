@@ -1,4 +1,4 @@
-package numutils
+package math_examples
 
 import "testing"
 
